@@ -21,6 +21,8 @@ body {
     margin-top: 5px;
     font-family: "Caveat", cursive;
     font-style: normal;
+    font-size: 20px;
+    font-weight:bold;
 }
 .card h4{
     margin: 0;
@@ -32,7 +34,7 @@ body {
 }
 .card h2 {
     margin:  0;
-    font-size: 20px;
+    font-size: 15px;
     font-family: "Libre Baskerville", serif;
     font-style: italic;
 
