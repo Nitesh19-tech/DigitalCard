@@ -44,6 +44,10 @@ body {
     font-size: 20px;
     font-weight:bold;
 }
+
+#name a{
+    color: yellow;
+}
 .card h4{
     margin: 0;
     font-family: caveat;
